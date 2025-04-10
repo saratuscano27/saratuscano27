@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About Me :
 
 Hi, I’m Sara Tuscano, a Master’s student in Information Technology at Arizona State University with a background in Big Data Analytics and Statistics.
