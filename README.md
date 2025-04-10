@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # About Me :
 
 Hi, I’m Sara Tuscano, a Master’s student in Information Technology at Arizona State University with a background in Big Data Analytics and Statistics.
@@ -58,4 +57,3 @@ Let’s connect if you're into data science, analytics, or building impactful da
 ![SAS](https://img.shields.io/badge/SAS-%231E9CCE.svg?style=for-the-badge&logo=sas&logoColor=white)
 
 
--->
